@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shrman007658](https://github.com/Shrman007658)
 
-- 📝 I regulary write articles on [https://data-flair.training/blogs/java-tutorials-home/](https://data-flair.training/blogs/java-tutorials-home/)
+- 📝 I work at PayPal 💼
 
 - 💬 Ask me about **Linux,Java**
 
