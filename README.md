@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shraman Das</h1>
 <h3 align="center">Just a everyday problem solver. Love to collab and teach!</h3>
 
-- 🌱 I’m currently learning **JavaScript,NodeJS,MongoDB**
+- 🌱 I’m currently learning **Java, Spring, Node **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shrman007658](https://github.com/Shrman007658)
 
